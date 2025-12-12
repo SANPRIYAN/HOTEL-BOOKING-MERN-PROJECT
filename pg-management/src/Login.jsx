@@ -72,7 +72,7 @@ function Login() {
           <form onSubmit={handleSubmit}>
             <div style={{ marginBottom: '20px', textAlign: 'left' }}>
               <label htmlFor="username" style={{ fontWeight: '600', color: '#CBD5D8' }}>
-                USERNAME
+                Username
               </label>
               <input
                 type="text"
