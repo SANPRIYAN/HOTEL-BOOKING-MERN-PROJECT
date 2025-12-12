@@ -138,7 +138,7 @@ function Login() {
                 e.target.style.boxShadow = '0 0 12px rgba(42, 122, 120, 0.6)';
               }}
             >
-              Login
+              LOGIN
             </button>
           </form>
 
